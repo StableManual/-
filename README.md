@@ -66,7 +66,7 @@ _Only masked : 따로 재생성 후 축소해서 박아넣음_
 
 ![무제14_20230129183811](https://user-images.githubusercontent.com/123804566/215317930-2ed923c0-3d2d-4b77-a60b-6becfd956461.png)
 
-그 후 프롬프트 창에 Nude, Naked, (칠한 부분에 맞는 단어[가슴이면 chest 성기면 뭐뭐 등등 영어로..]) 입력
+그 후 프롬프트(긍정) 창에 Nude, Naked, (칠한 부분에 맞는 단어[가슴이면 chest 성기면 뭐뭐 등등 영어로..]) 입력
 
 ![2020129184448](https://user-images.githubusercontent.com/123804566/215318228-ba421f22-4ad3-4a7e-8821-eb72da2cec83.png)
 
@@ -74,6 +74,8 @@ _Only masked : 따로 재생성 후 축소해서 박아넣음_
 인내심을 들이냐에 따라 다른 결과가 나온다..**
 <br/>
 그렇기에 설정을 약간씩 바꾸며 계속 생성해준다.
+그리고 부자연스럽게 나온 부분의 특징을 프롬프트(부정)에 영어로 작성하면
+더 좋은 결과를 얻을 수 있디
 
 ![2030129184431](https://user-images.githubusercontent.com/123804566/215318323-35a1144b-61fc-4147-a1c8-71e432507be4.png)
 
